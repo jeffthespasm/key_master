@@ -1,0 +1,118 @@
+module.exports = {
+  cmajor: {
+    display_text: 'C Major',
+    image: 'cmajor'
+  },
+  cminor: {
+    display_text: 'C Minor',
+    image: 'eflatmajor'
+  },
+  csharpmajor: {
+    display_text: 'C# Major',
+    image: 'csharpmajor'
+  },
+  csharpminor: {
+    display_text: 'C# Minor',
+    image: 'emajor'
+  },
+  dmajor: {
+    display_text: 'D Major',
+    image :'dmajor'
+  },
+  dminor: {
+    display_text: 'D Minor',
+    image: 'fmajor'
+  },
+  dflatmajor: {
+    display_text: 'Db Major',
+    image: 'dflatmajor'
+  },
+  dsharpminor: {
+    display_text: 'D# Minor',
+    image: 'fsharpmajor'
+  },
+  emajor: {
+    display_text: 'E Major',
+    image: 'emajor'
+  },
+  eminor: {
+    display_text: 'E Minor',
+    image: 'gmajor'
+  },
+  eflatmajor: {
+    display_text: 'Eb Major',
+    image: 'eflatmajor'
+  },
+  eflatminor: {
+    display_text: 'Eb Minor',
+    image: 'gflatmajor'
+  },
+  fmajor: {
+    display_text: 'F Major',
+    image: 'fmajor'
+  },
+  fminor: {
+    display_text: 'F Minor',
+    image: 'aflatmajor'
+  },
+  fsharpmajor: {
+    display_text: 'F# Major',
+    image: 'fsharpmajor'
+  },
+  fsharpminor: {
+    display_text: 'F# Minor',
+    image: 'amajor'
+  },
+  gmajor: {
+    display_text: 'G Major',
+    image: 'gmajor'
+  },
+  gminor: {
+    display_text: 'G Minor',
+    image: 'bflatmajor'
+  },
+  gflatmajor: {
+    display_text: 'Gb Major',
+    image: 'gflatmajor'
+  },
+  gsharpminor: {
+    display_text: 'G# Minor',
+    image: 'bmajor'
+  },
+  amajor: {
+    display_text: 'A Major',
+    image: 'amajor'
+  },
+  aminor: {
+    display_text: 'A Minor',
+    image: 'cmajor'
+  },
+  aflatmajor: {
+    display_text: 'Ab Major',
+    image: 'aflatmajor'
+  },
+  aflatminor: {
+    display_text: 'Ab Minor',
+    image: 'cflatmajor'
+  },
+  asharpminor: {
+    display_text: 'A# Minor',
+    image: 'csharpmajor'
+  },
+  bmajor: {
+    display_text: 'B Major',
+    image: 'bmajor'
+  },
+  bminor: {
+    display_text: 'B Minor',
+    image: 'dmajor'
+  },
+  bflatmajor: {
+    display_text: 'Bb Major',
+    image: 'bflatmajor'
+  },
+  bflatminor: {
+    display_text: 'Bb Minor',
+    image: 'dflatmajor'
+  }
+}

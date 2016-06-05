@@ -1,0 +1,22 @@
+html, body {
+  font-family: sans-serif;
+}
+
+#app {
+  width: 400px;
+  margin: 0 auto;
+
+  .card {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #eee;
+    padding: 50px;
+
+    > img {
+      width: 100px;
+      margin: 5px;
+      cursor: pointer;
+    }
+  }
+}
